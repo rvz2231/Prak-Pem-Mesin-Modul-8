@@ -1,0 +1,4 @@
+venv_prak_mesin/
+__pycache__/
+*.pyc
+.DS_Store
